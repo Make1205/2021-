@@ -1,0 +1,35 @@
+{
+    "files.defaultLanguage": "c++", // ctrl+N新建文件后默认的语言
+    "editor.formatOnType": true,  // 输入分号(C/C++的语句结束标识)后自动格式化当前这一行的代码
+    "files.associations": {
+        "random": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "istream": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "filesystem": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "ios": "cpp",
+        "charconv": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "fstream": "cpp",
+        "xlocmes": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",  //需要添加的
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "git.ignoreLimitWarning": true, //  需要添加的
+}
